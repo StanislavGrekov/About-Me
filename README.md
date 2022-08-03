@@ -8,4 +8,4 @@ Three facts about me:
 * I drive a car like on picture:
 ![я веду машину](https://assets.avtocod.ru/storage/images/bistro-vodit.jpg)
 
-### Now i study in Netology, because i want  get a new profession.
+### Now i am studying in Netology, because i want  get a new profession.
